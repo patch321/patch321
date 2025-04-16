@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Seed To Spoon](http://www.seedtospoon.net)
 
-- 🌱 I’m currently learning **Python, Django, React w/Typescript, DevOps**
-
-- 💬 Ask me about **Angular, .NET, Front-end Development**
+- 💬 Ask me about **Angular, .NET, Front-end Development, Python, Django, React w/Typescript, DevOps**
 
 - 📫 How to reach me **patrickhartleyjr@gmail.com**
 
