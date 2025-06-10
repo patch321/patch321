@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">Accomplished Senior Software Developer with 7+ years of experience specializing in Full-Stack development.</h3>
 
-- 🔭 I’m currently working on [Seed To Spoon](http://www.seedtospoon.net)
-
 - 💬 Ask me about **Angular, .NET, Front-end Development, Python, Django, React w/Typescript, DevOps**
 
 - 📫 How to reach me **patrickhartleyjr@gmail.com**
