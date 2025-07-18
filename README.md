@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Accomplished Senior Software Developer with 7+ years of experience specializing in Full-Stack development.</h3>
+<h3 align="center">Accomplished Senior Software Developer with 12+ years of experience specializing in Full-Stack development.</h3>
 
 - 💬 Ask me about **Angular, .NET, Front-end Development, Python, Django, React w/Typescript, DevOps**
 
